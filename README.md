@@ -13,7 +13,7 @@ This dashboard was developed as part of my alternance at CPAM Vaucluse, focusing
 The application was designed with a focus on efficiency and usability. By integrating Vuetify, a Vue UI Library, it offers a responsive design and an engaging user experience. The use of Vue 3's Composition API, along with the `<script setup>` feature, provides a more concise and easier-to-read codebase.
 
 The dashboard's backend, built with Node-RED, interfaces with various CPAM systems, pulling data into the Vue frontend. This allows for a seamless flow of information from the backend processes to the front-end interface, where agents can interact with the data through a series of automated and user-initiated actions.
-![Monitoring & Management](Images/Image3.png)
+![Server BackEnd](Images/Image3.png)
 
 ## Recommended IDE Setup
 

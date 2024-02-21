@@ -14,6 +14,8 @@ The application was designed with a focus on efficiency and usability. By integr
 
 The dashboard's backend, built with Node-RED, interfaces with various CPAM systems, pulling data into the Vue frontend. This allows for a seamless flow of information from the backend processes to the front-end interface, where agents can interact with the data through a series of automated and user-initiated actions.
 
+![Serveur BackEnd](Images/Image3.png)
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
